@@ -18,9 +18,9 @@ autolink = true
 email_form = 2
 +++
 <p>Companies around the globe trust us to:</p>
-- Adhere to the most rigorous cGMP quality standards
-- Manufacture high-quality products packaged under custom label
-- Meet tight deadlines
-- Reduce unit costs
+* Adhere to the most rigorous cGMP quality standards
+* Manufacture high-quality products packaged under custom label
+* Meet tight deadlines
+* Reduce unit costs
 
-<p>We look forward to learning about your specific needs, please contact us.</p>
+<p>We look forward to learning about your specific needs.</p>
