@@ -11,7 +11,6 @@ subtitle = "Companies around the globe trust us to
 - Manufacture high-quality products packaged under custom label
 - Meet tight deadlines
 - Reduce unit costs
-
 We look forward to learning about your specific needs, please contact us."
 
 # Automatically link email and phone?
