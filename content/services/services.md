@@ -72,9 +72,9 @@ M.E. Pharmaceuticals manufacturing includes various drug dosage forms:
 - Immediate and controlled release tablets
 - Uncoated Tablets
 - Coated Tablets
--- Film coated tablets
--- Enteric coated tablets
--- Sugar coated tablets
+  - Film coated tablets
+  - Enteric coated tablets
+  - Sugar coated tablets
 - Micro-Tablets
 - Chewable Tablets
 - Effervescent Tablets
