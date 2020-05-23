@@ -54,7 +54,7 @@ subtitle = ""
 
 ADD IMAGE
 
-<h1>M.E. PHARMACEUTICALS MANUFACTURING</h1>
+<h2>M.E. PHARMACEUTICALS MANUFACTURING</h2>
 
 M.E. Pharmaceuticals manufacturing includes various drug dosage forms:
 
@@ -71,8 +71,7 @@ M.E. Pharmaceuticals manufacturing includes various drug dosage forms:
 - Granules
 - Powders
 - Pellets (immediate and controlled release units found in combination products)
-
-<h2>CONTROLLED RELEASE DOSAGE FORMS</h2>
+- Controlled Release Dosage Forms
 
 M.E. Pharmaceuticals contract manufacturing team adds a multitude of formulation options, including reliable production of controlled release dosage forms. 
 
@@ -80,7 +79,7 @@ At M.E. Pharmaceuticals we work diligently to ensure all operations adhere to cu
 
 ADD IMAGE 
 
-<h1>M.E. PHARMACEUTICALS DRUG PACKAGING</h1>
+<h2>M.E. PHARMACEUTICALS PACKAGING</h2>
 M.E. Pharmaceuticals packages various drug dosage forms using several methods including:
 
 - Blister (tablets / capsules)
@@ -96,7 +95,7 @@ M.E. Pharmaceuticals experts, protocols and facilities operate at the forefront 
 
 ADD IMAGE
 
-<h1>REGULATORY</h1>
+<h2>REGULATORY</h2>
 M.E. Pharmaceuticals regulatory professionals have facilitated the establishment of numerous brands within the United States and internationally. 
 
 M.E. Pharmaceuticals regulatory professionals are highly knowledgeable and experienced in the areas of pharmaceutical governance & compliance. Our customers benefit from extensive support with marketing applications and licensing procedures including but not limited to:
