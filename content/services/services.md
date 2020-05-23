@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Demos"
+title = "Services"
 subtitle = ""
 
 [design]
@@ -50,23 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
+ADD IMAGE
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+<h1>M.E. PHARMACEUTICALS MANUFACTURING</h1>
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
-
-IMAGE
-
-M.E. PHARMACEUTICALS MANUFACTURING
 M.E. Pharmaceuticals manufacturing includes various drug dosage forms:
 
 - Immediate and controlled release tablets
@@ -83,14 +72,15 @@ M.E. Pharmaceuticals manufacturing includes various drug dosage forms:
 - Powders
 - Pellets (immediate and controlled release units found in combination products)
 
-CONTROLLED RELEASE DOSAGE FORMS
+<h2>CONTROLLED RELEASE DOSAGE FORMS</h2>
+
 M.E. Pharmaceuticals contract manufacturing team adds a multitude of formulation options, including reliable production of controlled release dosage forms. 
 
 At M.E. Pharmaceuticals we work diligently to ensure all operations adhere to current Good Manufacturing Practices (cGMPs). Our state-of-the-art facility, operated by industry experts, is overseen by Quality Assurance professionals who guarantee a premium product throughout the entire process.
 
-IMAGE 
+ADD IMAGE 
 
-M.E. PHARMACEUTICALS DRUG PACKAGING
+<h1>M.E. PHARMACEUTICALS DRUG PACKAGING<h1>
 M.E. Pharmaceuticals packages various drug dosage forms using several methods including:
 
 - Blister (tablets / capsules)
@@ -104,9 +94,9 @@ M.E. Pharmaceuticals packages various drug dosage forms using several methods in
 
 M.E. Pharmaceuticals experts, protocols and facilities operate at the forefront of pharmaceutical development, uniting all necessary components to manufacture challenging drug formulas. The diverse options available to our customers allows them to market a quality, customized product to target their population. Continuous investment in state-of-the-art equipment is a priority at M.E. Pharmaceuticals that guarantees expedited large volume processing.
 
-IMAGE
+ADD IMAGE
 
-REGULATORY
+<h1>REGULATORY<h1>
 M.E. Pharmaceuticals regulatory professionals have facilitated the establishment of numerous brands within the United States and internationally. 
 
 M.E. Pharmaceuticals regulatory professionals are highly knowledgeable and experienced in the areas of pharmaceutical governance & compliance. Our customers benefit from extensive support with marketing applications and licensing procedures including but not limited to:
