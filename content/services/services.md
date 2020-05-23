@@ -80,7 +80,7 @@ At M.E. Pharmaceuticals we work diligently to ensure all operations adhere to cu
 
 ADD IMAGE 
 
-<h1>M.E. PHARMACEUTICALS DRUG PACKAGING<h1>
+<h1>M.E. PHARMACEUTICALS DRUG PACKAGING</h1>
 M.E. Pharmaceuticals packages various drug dosage forms using several methods including:
 
 - Blister (tablets / capsules)
@@ -96,7 +96,7 @@ M.E. Pharmaceuticals experts, protocols and facilities operate at the forefront 
 
 ADD IMAGE
 
-<h1>REGULATORY<h1>
+<h1>REGULATORY</h1>
 M.E. Pharmaceuticals regulatory professionals have facilitated the establishment of numerous brands within the United States and internationally. 
 
 M.E. Pharmaceuticals regulatory professionals are highly knowledgeable and experienced in the areas of pharmaceutical governance & compliance. Our customers benefit from extensive support with marketing applications and licensing procedures including but not limited to:
