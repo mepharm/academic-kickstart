@@ -71,7 +71,8 @@ For inspiration, check out [the Markdown files](https://sourcethemes.com/academi
   - [Wear the T-shirt](https://academic.threadless.com/)
 
 <p style="text-align:center;">M.E. Pharmaceuticals specializes in cGMP formulation, manufacturing, and packaging of dietary supplements, OTC drugs, and prescription pharmaceuticals. M.E. Pharmaceuticals utilizes experts in research and development, product design, medicinal chemistry, and molecular pharmacology, which allows us to provide premium brand and generic dietary supplements, O.T.C. drugs, and Rx pharmaceutical products.<br>
-You can depend on us to provide a superior drug product at a competitive price. Our ability to offer unique formulation and packaging options allows us to meet unique customer needs while providing early or on-time delivery of your drug products around the globe.
+  
+You can depend on us to provide a superior drug product at a competitive price. Our ability to offer unique formulation and packaging options allows us to meet unique customer needs while providing early or on-time delivery of your drug products around the globe.</p>
 
-Partner With Us <br>
-You can depend on M.E. Pharmaceuticals to provide a superior drug product at a competitive price. Our ability to offer unique formulation and packaging options allows MEP to meet unique customer needs while providing early or on-time delivery of your drug products around the globe</p>
+<p style="text-align:center;"><b>Partner With Us </b><br>
+You can depend on M.E. Pharmaceuticals to provide a superior drug product at a competitive price. Our ability to offer unique formulation and packaging options allows MEP to meet unique customer needs while providing early or on-time delivery of your drug products around the globe.</p>
