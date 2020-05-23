@@ -4,7 +4,7 @@ widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Process"
 subtitle = ""
 
 # Date format for experience
@@ -17,19 +17,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "RAW MATERIALS"
+  company = "Once raw materials are manufactured or received at M.E. Pharmaceuticals they are held in a quarantine area for analysis. Samples from quarantined raw materials are analyzed in our in-house laboratories to verify all materials that enter the facility. We utilize validated FDA and International Conference of Harmonization (ICH) methods for analysis. After validation is complete the materials are released for production."
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = ""
+  date_start = ""
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
 
 [[experience]]
   title = "Professor"
