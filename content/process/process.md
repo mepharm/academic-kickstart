@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = ""
   date_end = ""
-  description = """"""
+  description = ""
 
 [[experience]]
   title = "Professor"
