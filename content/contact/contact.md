@@ -6,12 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact Us"
-subtitle = "Companies around the globe trust us to
-- Adhere to the most rigorous cGMP quality standards
-- Manufacture high-quality products packaged under custom label
-- Meet tight deadlines
-- Reduce unit costs
-We look forward to learning about your specific needs, please contact us."
+subtitle = ""
 
 # Automatically link email and phone?
 autolink = true
@@ -22,3 +17,10 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 +++
+Companies around the globe trust us to
+- Adhere to the most rigorous cGMP quality standards
+- Manufacture high-quality products packaged under custom label
+- Meet tight deadlines
+- Reduce unit costs
+
+We look forward to learning about your specific needs, please contact us.
