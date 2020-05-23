@@ -70,7 +70,7 @@ For inspiration, check out [the Markdown files](https://sourcethemes.com/academi
   - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
   - [Wear the T-shirt](https://academic.threadless.com/)
 
-<p style="text-align:center;">M.E. Pharmaceuticals specializes in cGMP formulation, manufacturing, and packaging of dietary supplements, OTC drugs, and prescription pharmaceuticals. M.E. Pharmaceuticals utilizes experts in research and development, product design, medicinal chemistry, and molecular pharmacology, which allows us to provide premium brand and generic dietary supplements, O.T.C. drugs, and Rx pharmaceutical products.<br>
+<p style="text-align:center;">M.E. Pharmaceuticals specializes in cGMP formulation, manufacturing, and packaging of dietary supplements, OTC drugs, and prescription pharmaceuticals. M.E. Pharmaceuticals utilizes experts in research and development, product design, medicinal chemistry, and molecular pharmacology, which allows us to provide premium brand and generic dietary supplements, O.T.C. drugs, and Rx pharmaceutical products.
   
 You can depend on us to provide a superior drug product at a competitive price. Our ability to offer unique formulation and packaging options allows us to meet unique customer needs while providing early or on-time delivery of your drug products around the globe.</p>
 
