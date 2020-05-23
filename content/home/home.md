@@ -50,6 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
+{{% alert note %}}
+PAGE UNDER CONSTRUCTION
+{{% /alert %}}
+
 Welcome to the **Academic Kickstart** template!
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
@@ -66,10 +70,6 @@ For inspiration, check out [the Markdown files](https://sourcethemes.com/academi
   - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
   - [Wear the T-shirt](https://academic.threadless.com/)
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+M.E. Pharmaceuticals specializes in cGMP formulation, manufacturing, and packaging of dietary supplements, OTC drugs, and prescription pharmaceuticals. M.E. Pharmaceuticals utilizes experts in research and development, product design, medicinal chemistry, and molecular pharmacology, which allows us to provide premium brand and generic dietary supplements, O.T.C. drugs, and Rx pharmaceutical products.
+​
+You can depend on us to provide a superior drug product at a competitive price. Our ability to offer unique formulation and packaging options allows us to meet unique customer needs while providing early or on-time delivery of your drug products around the globe.
