@@ -54,7 +54,7 @@ subtitle = ""
 
 ADD IMAGE
 
-<h2>M.E. PHARMACEUTICALS MANUFACTURING</h2>
+**<h2>M.E. PHARMACEUTICALS MANUFACTURING</h2>**
 
 M.E. Pharmaceuticals manufacturing includes various drug dosage forms:
 
@@ -79,7 +79,7 @@ At M.E. Pharmaceuticals we work diligently to ensure all operations adhere to cu
 
 ADD IMAGE 
 
-<h2>M.E. PHARMACEUTICALS PACKAGING</h2>
+**<h2>M.E. PHARMACEUTICALS PACKAGING</h2>**
 M.E. Pharmaceuticals packages various drug dosage forms using several methods including:
 
 - Blister (tablets / capsules)
@@ -95,7 +95,7 @@ M.E. Pharmaceuticals experts, protocols and facilities operate at the forefront 
 
 ADD IMAGE
 
-<h2>REGULATORY</h2>
+**<h2>REGULATORY</h2>**
 M.E. Pharmaceuticals regulatory professionals have facilitated the establishment of numerous brands within the United States and internationally. 
 
 M.E. Pharmaceuticals regulatory professionals are highly knowledgeable and experienced in the areas of pharmaceutical governance & compliance. Our customers benefit from extensive support with marketing applications and licensing procedures including but not limited to:
