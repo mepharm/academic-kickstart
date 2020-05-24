@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-![pharmaceutical manufacturing blue caplets](/img/DSC_3988.JPG.jpg)
+![pharmaceutical manufacturing blue caplets](/img/DSC_3988.JPG)
