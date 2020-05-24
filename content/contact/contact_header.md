@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="careers.jpg" alt="smiling woman" width="75%">
+<img src="img/careers.jpg" alt="smiling woman" width="75%">
 
 <p>Companies around the globe trust us to:</p>
 - Adhere to the most rigorous cGMP quality standards
