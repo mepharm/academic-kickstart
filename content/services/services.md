@@ -75,7 +75,7 @@ M.E. Pharmaceuticals contract manufacturing team adds a multitude of formulation
 
 At M.E. Pharmaceuticals we work diligently to ensure all operations adhere to current Good Manufacturing Practices (cGMPs). Our state-of-the-art facility, operated by industry experts, is overseen by Quality Assurance professionals who guarantee a premium product throughout the entire process.
 
-ADD IMAGE 
+![pharmaceutical manufacturing blister packets](/img/blisters.jpg)
 
 **<h2>PACKAGING</h2>**
 M.E. Pharmaceuticals packages various drug dosage forms using several methods including:
