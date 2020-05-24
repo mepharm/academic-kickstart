@@ -8,8 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "CONNECT WITH US TODAY, 
-REVOLUTIONIZE YOUR PRODUCT TOMORROW"
+title = "CONNECT WITH US TODAY, REVOLUTIONIZE YOUR PRODUCT TOMORROW"
 subtitle = ""
 
 [design]
