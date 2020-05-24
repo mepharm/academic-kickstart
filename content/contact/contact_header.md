@@ -49,3 +49,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<p>Companies around the globe trust us to:</p>
+* Adhere to the most rigorous cGMP quality standards
+* Manufacture high-quality products packaged under custom label
+* Meet tight deadlines
+* Reduce unit costs
+
+<p>We look forward to learning about your specific needs.</p>
