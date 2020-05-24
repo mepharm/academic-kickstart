@@ -50,12 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="img/careers.jpg" alt="smiling woman" width="75%">
+<img src="static/img/careers.jpg" alt="smiling woman" width="75%">
 
 <p>Companies around the globe trust us to:</p>
-- Adhere to the most rigorous cGMP quality standards
-- Manufacture high-quality products packaged under custom label
-- Meet tight deadlines
-- Reduce unit costs
-
+<ul>
+<li> Adhere to the most rigorous cGMP quality standards</li>
+<li> Manufacture high-quality products packaged under custom label</li>
+<li> Meet tight deadlines</li>
+<li> Reduce unit costs</li>
+</ul>
 <p>We look forward to learning about your specific needs.</p>
