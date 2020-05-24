@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = ""
-subtitle = "CONNECT WITH US TODAY, REVOLUTIONIZE YOUR PRODUCT TOMORROW"
+subtitle = ""
 
 # Automatically link email and phone?
 autolink = true
