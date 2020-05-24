@@ -17,6 +17,6 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 
-padding = ["20px", "0", "20px", "0"]
+padding = ["10px", "0", "10px", "0"]
 +++
 
