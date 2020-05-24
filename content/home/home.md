@@ -59,5 +59,7 @@ PAGE UNDER CONSTRUCTION
   
 <p style="text-align:center;">You can depend on us to provide a superior drug product at a competitive price. Our ability to offer unique formulation and packaging options allows us to meet unique customer needs while providing early or on-time delivery of your drug products around the globe.</p>
 
+![pharmacy](/img/pharmacy.jpg)
+
 <p style="text-align:center;"><b>Partner With Us </b><br>
 You can depend on M.E. Pharmaceuticals to provide a superior drug product at a competitive price. Our ability to offer unique formulation and packaging options allows MEP to meet unique customer needs while providing early or on-time delivery of your drug products around the globe.</p>
