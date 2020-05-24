@@ -50,9 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-
-
-ADD IMAGE
+![pharmaceutical manufacturing white tablets](/img/whitepills.jpg)
 
 **<h2>M.E. PHARMACEUTICALS MANUFACTURING</h2>**
 
