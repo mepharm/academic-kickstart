@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "CONNECT WITH US TODAY, REVOLUTIONIZE YOUR PRODUCT TOMORROW"
-subtitle = ""
+title = ""
+subtitle = "CONNECT WITH US TODAY, REVOLUTIONIZE YOUR PRODUCT TOMORROW"
 
 # Automatically link email and phone?
 autolink = true
