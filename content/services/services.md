@@ -52,7 +52,7 @@ subtitle = ""
 
 ![pharmaceutical manufacturing white tablets](/img/whitepills.jpg)
 
-**<h2>M.E. PHARMACEUTICALS MANUFACTURING</h2>**
+**<h2>MANUFACTURING</h2>**
 
 M.E. Pharmaceuticals manufacturing includes various drug dosage forms:
 
@@ -77,7 +77,7 @@ At M.E. Pharmaceuticals we work diligently to ensure all operations adhere to cu
 
 ADD IMAGE 
 
-**<h2>M.E. PHARMACEUTICALS PACKAGING</h2>**
+**<h2>PACKAGING</h2>**
 M.E. Pharmaceuticals packages various drug dosage forms using several methods including:
 
 - Blister (tablets / capsules)
