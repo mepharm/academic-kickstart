@@ -5,12 +5,12 @@ name = "minimaltheme"
 light = true
 
 # Primary
-primary = "#338fce"
+primary = "#186ab8"
 
 # Menu
 menu_primary = "#ffffff"
 menu_text = "#2b2b2b"
-menu_text_active = "#186ab8"
+menu_text_active = "#389EE5"
 menu_title = "#2b2b2b"
 
 # Home sections
