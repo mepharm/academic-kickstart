@@ -49,6 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<img src="DSC_3988.JPG" alt="blue tablets" width="75%">
+
 <p>Companies around the globe trust us to:</p>
 * Adhere to the most rigorous cGMP quality standards
 * Manufacture high-quality products packaged under custom label
