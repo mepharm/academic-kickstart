@@ -49,8 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-<img src="static/img/careers.jpg" alt="smiling woman" width="75%">
+![pharmaceutical manufacturing smiling woman](/img/careers.jpg)
 
 <p>Companies around the globe trust us to:</p>
 <ul>
