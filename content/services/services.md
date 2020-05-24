@@ -91,7 +91,7 @@ M.E. Pharmaceuticals packages various drug dosage forms using several methods in
 
 M.E. Pharmaceuticals experts, protocols and facilities operate at the forefront of pharmaceutical development, uniting all necessary components to manufacture challenging drug formulas. The diverse options available to our customers allows them to market a quality, customized product to target their population. Continuous investment in state-of-the-art equipment is a priority at M.E. Pharmaceuticals that guarantees expedited large volume processing.
 
-ADD IMAGE
+![pharmaceutical manufacturing white tablets](/img/smile.jpg)
 
 **<h2>REGULATORY</h2>**
 M.E. Pharmaceuticals regulatory professionals have facilitated the establishment of numerous brands within the United States and internationally. 
