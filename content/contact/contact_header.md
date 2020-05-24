@@ -51,11 +51,6 @@ subtitle = ""
 +++
 ![pharmaceutical manufacturing smiling woman](/img/careers.jpg)
 
-<p>Companies around the globe trust us to:</p>
-<ul>
-<li> Adhere to the most rigorous cGMP quality standards</li>
-<li> Manufacture high-quality products packaged under custom label</li>
-<li> Meet tight deadlines</li>
-<li> Reduce unit costs</li>
-</ul>
+<p>If you’re looking for innovative solutions for pharmaceutical development and manufacturing, look no further than M.E. Pharmaceuticals. Contact us today and we’ll help you keep a competitive edge, navigate regulations, and bring your product to market faster than ever.</p>
+
 <p>We look forward to learning about your specific needs.</p>
