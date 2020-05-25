@@ -53,66 +53,49 @@ subtitle = ""
 ![pharmaceutical manufacturing white tablets](/img/whitepills.jpg)
 
 **<h2>MANUFACTURING</h2>**
+<h3>A formula for success</h3>
 
-M.E. Pharmaceuticals manufacturing includes various drug dosage forms:
+M.E. Pharmaceuticals is a leader in contract manufacturing and pharmaceutical development thanks not only to our experience and commitment to quality but also to our innovative process that keeps everything in motion. It’s a process that ensures superior over-the-counter drugs, dietary supplements, and solid-dose Rx pharmaceuticals—no matter the size, scale, or scope of the product.manufacturing includes various drug dosage forms:
 
-- Immediate and controlled release tablets
-- Uncoated Tablets
-- Coated Tablets
-  - Film coated tablets
-  - Enteric coated tablets
-  - Sugar coated tablets
-- Micro-Tablets
-- Chewable Tablets
-- Effervescent Tablets
-- Immediate and controlled release capsules
+- Immediate and controlled release tablets and capsules
+- Coated and uncoated tablets
+- Chewable and effervescent tablets
 - Granules
-- Powders
-- Pellets (immediate and controlled release units found in combination products)
-- Controlled Release Dosage Forms
+- Pellets
 
-M.E. Pharmaceuticals contract manufacturing team adds a multitude of formulation options, including reliable production of controlled release dosage forms. 
 
-At M.E. Pharmaceuticals we work diligently to ensure all operations adhere to current Good Manufacturing Practices (cGMPs). Our state-of-the-art facility, operated by industry experts, is overseen by Quality Assurance professionals who guarantee a premium product throughout the entire process.
+Our state-of-the-art facility is operated by industry experts and our investment in innovative technologies guarantees quality, consistency, and on-time delivery for every product we manufacture.
+
+**<h2>INNOVATIONS IN THE LAB</h2>**
+Our analytical chemists develop and validate laboratory methodologies, monitor ongoing stability, and support the formulation and manufacturing process that accelerates commercialization and elevates pharmaceutical development to a new level.
+
+- Method development and validation
+- Cleaning residuals development and validation
+- Dissolution and drug release profiling
+- Forced degradation studies
+- Stability monitoring to ICH guidelines
 
 ![pharmaceutical manufacturing blister packets](/img/blisters.jpg)
 
 **<h2>PACKAGING</h2>**
 M.E. Pharmaceuticals packages various drug dosage forms using several methods including:
 
-- Blister (tablets / capsules)
-- Bottles (tablets / capsules / granules / creams)
+- Blister 
+- Bottle
 - Tamper-evident, induction-sealed Neck and Body Banding
-- Folding Cartons
-- Kit Packaging
-- Canisters
-- Bulk Packaging
-- Pouches
-
-M.E. Pharmaceuticals experts, protocols and facilities operate at the forefront of pharmaceutical development, uniting all necessary components to manufacture challenging drug formulas. The diverse options available to our customers allows them to market a quality, customized product to target their population. Continuous investment in state-of-the-art equipment is a priority at M.E. Pharmaceuticals that guarantees expedited large volume processing.
+- Folding Carton
+- Pouch
 
 ![pharmaceutical manufacturing white tablets](/img/smile.jpg)
 
 **<h2>REGULATORY</h2>**
-M.E. Pharmaceuticals regulatory professionals have facilitated the establishment of numerous brands within the United States and internationally. 
+**<h3>EXPERTS IN MEETING AND EXCEEDING REGULATORY REQUIREMENTS</h3>**
 
-M.E. Pharmaceuticals regulatory professionals are highly knowledgeable and experienced in the areas of pharmaceutical governance & compliance. Our customers benefit from extensive support with marketing applications and licensing procedures including but not limited to:
-​
-- Submission Filings for Abbreviated New Drug Applications (ANDAs)
-- Submission Filings for 505(b)(1) and 505(b)(2) New Drug Applications (NDAs)
-- Submission Filings for Premarket Approvals (PMAs) for novel combination products
+The regulatory process is complicated. Our decades of experience will help you navigate the forever changing regulatory landscape to ensure a successful product launch and total product life cycle. Our team of experts are trained and highly knowledgeable about regulatory requirements in worldwide markets. They work closely with our customers around the globe to prepare both U.S. FDA and international dossiers. Our team monitors global regulations to ensure our strict compliance with:
+
+- Abbreviated New Drug Applications (ANDAs)
+- New Drug Applications (NDAs) and and 505(b)(2) submission
+- Premarket Approvals (PMAs) for novel combination products
 - Regulatory Review on OTC & Rx products for FDA manufacturing approval
-- Regulatory Review & Approval on Artwork Designs and Labels
-- Regulatory consulting on using combined Active Ingredients
-- Regulatory Review on product classifications
-​​
-Our regulatory experts also work alongside Quality Assurance professionals to ensure all operations are compliant with current Good Manufacturing Practices (cGMPs) and other applicable internationally recognized standards.
-
-
-By utilizing M.E. Pharmaceuticals for your regulatory requirements you will:
-​
-- Avoid mislabel claims or deceptive marketing
-- Avoid recalls of your products by the FDA
-- Be fully in compliance according to FDA Standards & Guidelines
-- Get labels approved by licensed lawyers or regulatory consultants
-- Make sure your labels and NDCs will be allowed for registrations within the state and FDA
+- Change control and support of post-approval commitments
+- Post-approval stability testing and monitoring of product quality
