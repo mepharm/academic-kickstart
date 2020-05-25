@@ -8,4 +8,4 @@ subtitle = ""
 +++
 
 **<h3>PHARMACY & BLENDING</h3>**
-<p>Our pharmacy team uses state-of-the-art technologies to weigh materials needed to manufacture a wide range of nutraceuticals and generic drugs. Depending on formulations, certain batches are granulated and then blended, while others go directly to blending.</p>
+<p>The M.E. Pharmaceuticals pharmacy team uses state-of-the-art technologies to weigh materials needed to manufacture a wide range of nutraceuticals and generic drugs. Depending on formulations, certain batches are granulated and then blended, while others go directly to blending.</p>
