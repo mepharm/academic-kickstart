@@ -7,5 +7,5 @@ title = ""
 subtitle = ""
 +++
 
-**<h3>REGULATORY & QUALITY ASSURANCE</h3>**
-<p>We build strong global partnerships to guarantee dependable supply, competitive pricing, and regulatory oversight. All materials are tested in our GMP-compliant analytical labs to ensure quality, potency, and consistency.</p>
+**<h3>PACKAGING</h3>**
+<p>Finished products are packaged into one of our many customized container options such as bottles, blisters, pouches and more.</p>
