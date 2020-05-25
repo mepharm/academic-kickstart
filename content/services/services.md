@@ -52,8 +52,8 @@ subtitle = ""
 
 ![pharmaceutical manufacturing white tablets](/img/whitepills.jpg)
 
-**<h2>style="text-align:center;">MANUFACTURING</h2>**
-<h3>style="text-align:center;">A FORMULA FOR SUCCESS</h3>
+**<h2> style="text-align:center;">MANUFACTURING</h2>**
+<h3> style="text-align:center;">A FORMULA FOR SUCCESS</h3>
 
 M.E. Pharmaceuticals is a leader in contract manufacturing and pharmaceutical development thanks not only to our experience and commitment to quality but also to our innovative process that keeps everything in motion. It’s a process that ensures superior over-the-counter drugs, dietary supplements, and solid-dose Rx pharmaceuticals—no matter the size, scale, or scope of the product.manufacturing includes various drug dosage forms:
 
