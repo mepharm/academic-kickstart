@@ -53,7 +53,7 @@ subtitle = ""
 ![pharmaceutical manufacturing white tablets](/img/whitepills.jpg)
 
 **<h2>MANUFACTURING</h2>**
-<h3>A formula for success</h3>
+<h3>A FORMULA FOR SUCCESS</h3>
 
 M.E. Pharmaceuticals is a leader in contract manufacturing and pharmaceutical development thanks not only to our experience and commitment to quality but also to our innovative process that keeps everything in motion. It’s a process that ensures superior over-the-counter drugs, dietary supplements, and solid-dose Rx pharmaceuticals—no matter the size, scale, or scope of the product.manufacturing includes various drug dosage forms:
 
@@ -63,8 +63,17 @@ M.E. Pharmaceuticals is a leader in contract manufacturing and pharmaceutical de
 - Granules
 - Pellets
 
-
 Our state-of-the-art facility is operated by industry experts and our investment in innovative technologies guarantees quality, consistency, and on-time delivery for every product we manufacture.
+
+![pharmaceutical manufacturing blister packets](/img/blisters.jpg)
+
+M.E. Pharmaceuticals packages various drug dosage forms using several methods including:
+
+- Blister 
+- Bottle
+- Tamper-evident, induction-sealed Neck and Body Banding
+- Folding Carton
+- Pouch
 
 **<h2>INNOVATIONS IN THE LAB</h2>**
 Our analytical chemists develop and validate laboratory methodologies, monitor ongoing stability, and support the formulation and manufacturing process that accelerates commercialization and elevates pharmaceutical development to a new level.
@@ -74,17 +83,6 @@ Our analytical chemists develop and validate laboratory methodologies, monitor o
 - Dissolution and drug release profiling
 - Forced degradation studies
 - Stability monitoring to ICH guidelines
-
-![pharmaceutical manufacturing blister packets](/img/blisters.jpg)
-
-**<h2>PACKAGING</h2>**
-M.E. Pharmaceuticals packages various drug dosage forms using several methods including:
-
-- Blister 
-- Bottle
-- Tamper-evident, induction-sealed Neck and Body Banding
-- Folding Carton
-- Pouch
 
 ![pharmaceutical manufacturing white tablets](/img/smile.jpg)
 
