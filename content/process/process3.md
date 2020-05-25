@@ -7,5 +7,5 @@ title = ""
 subtitle = ""
 +++
 
-**<h3>REGULATORY & QUALITY ASSURANCE</h3>**
-<p>We build strong global partnerships to guarantee dependable supply, competitive pricing, and regulatory oversight. All materials are tested in our GMP-compliant analytical labs to ensure quality, potency, and consistency.</p>
+**<h3>PHARMACY & BLENDING</h3>**
+<p>Our pharmacy team uses state-of-the-art technologies to weigh materials needed to manufacture a wide range of nutraceuticals and generic drugs. Depending on formulations, certain batches are granulated and then blended, while others go directly to blending.</p>
