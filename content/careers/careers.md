@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-<h3 style="text-align:center;">FIND A PLACE ON OUR TEAM</h3>
+<h3 style="text-align:center;">Find a Place on Our Team</h3>
 
 <p style="text-align:center;">We are actively seeking individuals who share our mission. If you are interested, <a href = "/contact" target = "_self">contact us</a>.</p>
