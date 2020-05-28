@@ -51,6 +51,5 @@ subtitle = ""
 +++
 
 <h3 style="text-align:center;">FIND A PLACE ON OUR TEAM</h3>
-<p style="text-align:center;">We are problem solvers, scientists, and engineers. Every member of our team is dedicated to better products and affordable healthcare. We reward our team with highly competitive compensation, great benefits, and the opportunity to do incredible things.</p>
 
 <p style="text-align:center;">We are actively seeking individuals who share our mission. If you are interested, <a href = "/contact" target = "_self">contact us</a>.</p>
