@@ -54,4 +54,4 @@ subtitle = ""
 
 <p style="text-align:center;">We are actively seeking individuals who share our mission. If you are interested, <a href = "/contact" target = "_self">contact us</a>.</p>
 
-<p style="text-align:center;"><a href="../jobs">Apply for a position today</a></p>
+<p style="text-align:center;"><a href="../jobs">Explore our open positions</a></p>
