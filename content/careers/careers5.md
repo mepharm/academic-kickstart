@@ -53,4 +53,4 @@ subtitle = ""
 <h3 style="text-align:center;">Stay Connected</h3>
 <p style="text-align:center;">Share a bit about yourself, such as the career area you are interested in. We will then reach out to you when the perfect position is available!</p>
 
-<a href="https://www.meprx.com/requisitions"> Join Our Talent Community</a>
+<a href="../requisitions"> Join Our Talent Community</a>
