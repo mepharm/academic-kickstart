@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-<h3 style="text-align:center;">WE VALUE DIVERSITY</h3>
+<h3 style="text-align:center;">We Value Diversity/h3>
 <p style="text-align:center;">When our people come to work each day, we bring different experiences, perspectives and traditions. We bring the things that make each of us unique, and M.E Pharmaceuticals is committed to welcoming, respecting and valuing those differences. That’s because our differences make a difference – in making M.E Pharmaceuticals a stronger company and a great place to work.</p>
