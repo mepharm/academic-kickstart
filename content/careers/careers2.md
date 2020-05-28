@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-<h3 style="text-align:center;">Who We're Looking For/h3>
+<h3 style="text-align:center;">Who We're Looking For</h3>
 <p style="text-align:center;">We’re always looking for driven people to join our team. What unites our diverse team of professionals is the desire to develop better products and affordable healthcare through a passion for innovation and making the world a better place. If you share our sense of purpose and are eager to make a difference, come make an impact with us.</p>
