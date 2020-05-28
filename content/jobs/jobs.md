@@ -26,20 +26,14 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Bioinformatics"
-  #   tag = "Data Science, Bioinformatics, Big Data"
+  #   name = "Student Jobs"
+  #   tag = "Student Jobs"
   
   # [[content.filter_button]]
-  #   name = "Field Research"
-  #   tag = "Field Work, Outdoor Science"
+  #   name = "Full-Time Jobs"
+  #   tag = "Full-Time Jobs"
   
-  # [[content.filter_button]]
-  #   name = "Population Genetics"
-  #   tag = "PopGen"
-
-  # [[content.filter_button]]
-  #   name = "Botanical Studies"
-  #   tag = "Botany, Flora"
+ 
    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
