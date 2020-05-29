@@ -1,15 +1,6 @@
 ---
-title: Open Positions
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 1
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+date: "2020-01-05T00:00:00Z"
+summary: Open Positions
+title: "Open Positions"
+type: widget_page
 ---
