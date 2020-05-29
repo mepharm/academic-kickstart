@@ -1,5 +1,5 @@
 ---
-title: Jobs
+title: Available Positions
 
 # View.
 #   1 = List
