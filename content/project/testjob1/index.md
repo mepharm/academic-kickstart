@@ -1,11 +1,11 @@
 ---
 title: Research Scientist Intern-Medicinal Chemistry 
-summary: If you are passionate about the health space and want to have an incredible impact, this could be the role for you. We are an efficient organization who works closely together to build relationships across multiple functional teams. We care deeply about getting amazing new products into our customers hands.
-Weekly Hours/: 40
-Role Number/: 062020847389
+summary: Weekly Hours 40. Role Number 062020847389
 tags:
 - Student Positions
 ---
+If you are passionate about the health space and want to have an incredible impact, this could be the role for you. We are an efficient organization who works closely together to build relationships across multiple functional teams. We care deeply about getting amazing new products into our customers hands. <br>
+
 Key Qualifications 
 - Willingness to explore electrochemical and photocatalytic reactions 
 - Demonstrated effective communication skills, both verbal and written 
