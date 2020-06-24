@@ -10,7 +10,7 @@ Key Qualifications
 - Ability to navigate and be successful in a fast-paced work environment 
 - A desire to be part of a highly innovative company aimed at transforming the lives of people with serious diseases, their families and society
 
-Description
+Description <br>
 M.E. Pharmaceuticals is looking for a Research Scientist who is highly motivated, creative and innovative intern student in pharmaceutical science to join our research group. The intern will develop reactions for high-throughput synthesis on a small scale. If successful, the intern will make a library of molecules to support a relevant project. As part of this internship, the candidate will have the opportunity to work with a team of scientists from several groups, including chemistry, biology, and the instrumentation team. 
 
 Education & Experience
