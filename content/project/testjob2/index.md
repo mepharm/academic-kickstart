@@ -1,6 +1,6 @@
 ---
 title: Manager of Regulatory Affairs
-summary: Weekly Hours- 40. Role Number- 062020744379
+summary: Weekly Hours 40. Role Number 062020744379
 
 tags:
 - Full-Time Positions
