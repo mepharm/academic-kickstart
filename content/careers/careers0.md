@@ -50,3 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
+![career](/img/lady.jpg)
