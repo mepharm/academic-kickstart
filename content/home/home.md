@@ -50,9 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-PAGE UNDER CONSTRUCTION
-{{% /alert %}}
+# {{% alert note %}}
+# PAGE UNDER CONSTRUCTION
+# {{% /alert %}}
 
 
 <p style="text-align:center;">M.E. Pharmaceuticals specializes in cGMP formulation, manufacturing, and packaging of dietary supplements, OTC drugs, and prescription pharmaceuticals. M.E. Pharmaceuticals utilizes experts in research and development, product design, medicinal chemistry, and molecular pharmacology, which allows us to provide premium brand and generic dietary supplements, O.T.C. drugs, and Rx pharmaceutical products.</p>
