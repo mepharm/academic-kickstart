@@ -1,5 +1,5 @@
 ---
-title: Manager of Regulatory Affairs
+title: Regulatory Affairs Manager
 summary: Weekly Hours 40. Role Number 062020744379
 
 tags:
@@ -18,7 +18,7 @@ Description <br>
 You will lead a team of Regulatory Affairs associated and represent the Regulatory team on a diverse array of regulatory initiatives and new product development programs. You will demonstrate the ability to develop a variety of solutions to regulatory challenges and will exercise independent judgment in settling and communicating appropriate regulatory action and requirements. This role will involve assessment of regulatory impact for new and generic drug products, including identification of assumptions/risks/mitigations to develop and execute clear regulatory plans in the US and globally. You will also be responsible for establishing a team culture and process for executing the above tasks in creative ways that still meets regulatory and legal frameworks.
 
 Education & Experience <br>
-B.S. degree or equivalent in a pharmaceutical science or legal; M.S/ PharmD/ post-secondary education preferred
+B.S. degree or equivalent in a pharmaceutical science or legal; M.S or PharmD preferred
 
 Additional Requirements <br>
 - Executive poise and presence, including a track record of positively influencing decisions and teams
