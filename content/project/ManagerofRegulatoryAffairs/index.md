@@ -1,32 +1,42 @@
 ---
-title: Regulatory Affairs Manager
-summary: Weekly Hours 40. Role Number 062020744379
+title: Principle Regulatory Scientist - Combination Product Digital
+summary: Weekly Hours 40. Role Number 062093545379
 
 tags:
 - Full-Time Positions
 ---
-M.E. Pharmaceuticals is looking for a Manager of Regulatory Affairs to help manage and execute on strategy and submissions for health products. If you are passionate about the health space and want to have an incredible impact, this could be the role for you. We are an efficient organization who works closely together to build relationships across multiple functional teams. We care deeply about getting amazing new products into our customers hands.
+This role provides strategic, tactical, and operational direction to expedite M.E. Pharmaceuticals’ drug delivery combination products and medical devices in development. This is achieved by interacting with teams and regulators to develop successful regulatory strategies and submissions in support of clinical trials and market clearance/registrations. The Principle Regulatory Scientist utilizes drug delivery system, medical device &/or digital health technical knowledge and regulatory expertise and lessons learned across Global Regulatory Affairs to drive internal consistency and influence effective change management.  It is expected that this position embraces corporate transformation initiatives and represent GRA - Drug Delivery and Digital Health as a change ambassador. This is accomplished with a strong working knowledge of global regulations, guidelines and regulatory precedence coupled with a strong technical knowledge of device development process. This role is further accomplished by a demonstrated ability to establish and/or to promote / refine key regulatory positions and to effectively influence senior leadership on these positions.  
 
-Key Qualifications
-- 8+ years of medical device experience in a regulatory role, manager experience is preferred
-- Significant experience in leading interactions with regulatory health authorities
-- Preparing global product submissions required including IND and ANDA
-- Strong working knowledge of US, EU, APAC, LATAM, ASEAN and other global regulations that affect pharmaceutical products
-- Strong knowledge of global regulations 
+Responsibilities: <br>
+The Research Advisor Scientist is recognized as an expert having broad technical knowledge of regulatory requirements and guidelines for conducting clinical trials and obtaining global product registrations. 
+- Independently develops complex global regulatory strategies and networks for alignment across GRA, R&D, Manufacturing sites and affiliates, as required, to enable timely completion of product registration milestones. 
+- Provide high quality, timely and decisive regulatory advice to allow product teams to make well-informed decisions on development or product lifecycle planning 
+- Anticipates and resolves key technical or operational issues that can impact the function, product team and/or submission timing. 
+- Networks independently with upper management and development teams, as appropriate, building awareness and alignment on complex Regulatory strategies, plans and risks. 
+- Creates and effectively manages input deliverables into timelines for development of device/combination product registrations, resolving major issues and conflicts via networking directly with development teams, and GRA senior management. 
+- Coordinating communication across GRA on drug delivery combination product and device support and developing forums for discussion and development of regulatory positions on new device standards and regulations.  
 
-Description <br>
-You will lead a team of Regulatory Affairs associated and represent the Regulatory team on a diverse array of regulatory initiatives and new product development programs. You will demonstrate the ability to develop a variety of solutions to regulatory challenges and will exercise independent judgment in settling and communicating appropriate regulatory action and requirements. This role will involve assessment of regulatory impact for new and generic drug products, including identification of assumptions/risks/mitigations to develop and execute clear regulatory plans in the US and globally. You will also be responsible for establishing a team culture and process for executing the above tasks in creative ways that still meets regulatory and legal frameworks.
+Key Qualifications: <br>
+- Bachelor's Degree in sciences, health or engineering discipline (e.g. biomedical engineering, engineering, pharmacology, chemistry, biology, biochemistry, pharmacy, or related scientific discipline) 
+- Medical Device and / or Pharmaceutical industry experience in clinical &/or technical product development (7 - 10 years) 
+- Prior experience authoring submission content incorporating complex regulatory strategies and leading FDA interactions 
+- Prior Regulatory experience (7 -10 years) or equivalent combination of technical and regulatory guidance knowledge. 
+- Demonstrated strong written, spoken and presentation communication skills 
+- Demonstrated leadership, negotiation, and influence skills • Demonstrates passion for developing Regulatory skills and capabilities in others 
+- Demonstrated effective teamwork skills; able to adapt to diverse interpersonal styles  
 
-Education & Experience <br>
-B.S. degree or equivalent in a pharmaceutical science or legal; M.S or PharmD preferred
 
-Additional Requirements <br>
-- Executive poise and presence, including a track record of positively influencing decisions and teams
-- Advanced knowledge of management techniques and practices including day-to-day management and establishing a team culture
-- Demonstrable background in being autonomous and being able to clearly work towards establish goals and initiatives with minimal oversight.
-- Working as part of a focused project team
-- Proven competence in determination of appropriate global regulatory requirements for new products or product changes.
-- Partnering with and across research and development teams to set regulatory strategy
-- Strong organizational and management skills.
-- Excellent communication skills, both verbal and written
+Additional Skills/Preferences: <br>
+- Established relationships with CDRH / CDER reviewers, FDA policy groups, OCP, and/or DMEPA 
+- Knowledge and experience with connected drug delivery combination products and medical devices (including SiMD, SaMD) 
+- Demonstrated ability to apply critical thinking skills to solve complex problems through research and aggregating of information from various sources. 
+- Demonstrated ability to communicate to audiences of all levels and areas 
+- Demonstrated experience and continuous improvement of processes mindset 
+- Demonstrated learning agility 
+- Demonstrated effective teamwork skills; able to adapt to diverse interpersonal styles.  
+
+
+Additional Information: <br>
+- Travel 10-15%  
+- Ideal if local to Indianapolis location, but may qualify for remote worker status
 
