@@ -38,5 +38,5 @@ Additional Skills/Preferences: <br>
 
 Additional Information: <br>
 - Travel 10-15%  
-- Ideal if local to Indianapolis location, but may qualify for remote worker status
+- Ideal if local to Indianapolis location, but may qualify for remote worker status 
 
